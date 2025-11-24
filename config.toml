@@ -10,7 +10,7 @@ disableKinds = ["taxonomy", "term"]
 
 [author]
   name = "Wendy Li"
-  headline = "An aspiring GIS Analyst"
+  headline = "Seeking excellence in all things GIS and quality."
   image = "img/author.jpg"  # path relative to static directory
 
   links = [
@@ -46,7 +46,7 @@ disableKinds = ["taxonomy", "term"]
     # { telegram = "https://t.me/username" },
     # { tiktok = "https://tiktok.com/@username" },
     # { tumblr = "https://username.tumblr.com" },
-    { twitch = "https://twitch.tv/wendy_1213" },
+    # { twitch = "https://twitch.tv/wendy_1213" },
     # { twitter = "https://twitter.com/username" },
     # { whatsapp = "https://wa.me/phone-number" },
     # { youtube = "https://youtube.com/username" },
